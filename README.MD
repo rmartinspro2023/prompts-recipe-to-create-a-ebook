@@ -52,14 +52,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/142454201?s=400&u=19dbc9429e1185bb54a70a9f3cb5f4dcf3aa1c08&v=4"
     />
-    <p>Rogério Martins<br>
+    <p>&nbsp&nbspRogério Martins<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/rmartinspro2023">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
 rogeriomartins2023">LinkedIn</a>
-&nbsp;|&nbsp;
-&nbsp;|&nbsp;</p>
+</p>
 </p>
 <br/><br/>
 <p>
